@@ -4,6 +4,8 @@ Xposed module based on [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)
 
 Install it in LSPosed and login page won't appear.
 
+Tested on 40.5.3
+
 ## Latest links
 
 jun22_universal.apk: [Download](https://pixeldrain.com/u/HNwdkykz)  
