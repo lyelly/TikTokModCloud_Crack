@@ -19,4 +19,4 @@ Region by default: UK 🇬🇧
 Change region ✅
 
 2.10_plugin.apk: [Download](https://pixeldrain.com/u/GVsjrSC2)  
-> Plugin w/ settings of mod
+> Plugin with mod settings
