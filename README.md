@@ -2,7 +2,7 @@
 
 Xposed module based on [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) 1.2.1
 
-Install it in LSPosed and login page won't appear.
+Install and enable in LSPosed — login page will disappear.
 
 Tested on 40.5.3
 
